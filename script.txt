@@ -7,6 +7,8 @@
 // Loadout 3: armor-crushing, e.g. 2x warhammer
 // Loadout 4: melee high-damage, e.g. 2x sword
 
+// Loadout 5: 2x vigor wand
+
 // The Ouroboros stone is equipped when nothing
 // has to be done to get heal a little.
 // The Star stone is equipped to quickly pick
@@ -109,10 +111,10 @@
 
 // --- Haunted halls ---
 ?loc = crypt
-  equip vigor staff
+  loadout 5
   // Pallas, the skinless
   ?foe = boss
-    equip vigor staff
+    loadout 5
 
 
 
