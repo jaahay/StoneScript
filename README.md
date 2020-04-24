@@ -44,10 +44,15 @@ Additional information about the game
 ### Elements and runes
 
 - Vigor ❤ is strong against Æther ＊
+    - L
 - Æther ＊is strong against Fire φ
+    - U
 - Fire φ is strong against Ice ❄
+    - F
 - Ice ❄ is strong against Poison ∞
+    - I
 - Poison ∞ is strong against Vigor ❤
+    - P
 
 More information available
 [here](https://github.com/Tomotopieces/runestone-in-ssrpg/blob/master/README_EnglishVersion.md)
