@@ -77,3 +77,38 @@ More information available
     debuffs
 10. Bronze (10) + Tar (10): +20% lifesteal for 20 seconds
 
+### Locations
+
+- Rocky Plateau
+    - Stone resource `o`
+    - 5*+ can drop any rune
+
+- Deadwood Canyon
+    - Wood: `` _/` ``
+
+- Caves of Fear
+    - Tar: `≈`
+    - Drops Poison ∞ runes
+    - Enemies weak to Ice ❄
+
+- Mushroom Forest
+    - Drops Vigor ❤ runes
+    - Enemies weak to Poison ∞
+
+- Haunted Halls
+    - Drops Aether ＊ runes
+    - Enemies weak to Vigor ❤
+    - Skeletons take double magic damage
+    - Booos immune to physical damage
+
+- Boiling Mine
+    - Bronze: `:.`
+    - Drops Fire φ runes
+    - Enemies weak to Aether ＊
+
+- Icy Ridge
+    - Drops Ice ❄ runes
+    - Enemies weak to Fire φ
+
+- Temple
+    - Drops Poison ∞ runes
