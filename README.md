@@ -43,8 +43,8 @@ Additional information about the game
 
 ### Elements and runes
 
-- Vigor ❤ is strong against Aether ＊
-- Aether ＊is strong against Fire φ
+- Vigor ❤ is strong against Æther ＊
+- Æther ＊is strong against Fire φ
 - Fire φ is strong against Ice ❄
 - Ice ❄ is strong against Poison ∞
 - Poison ∞ is strong against Vigor ❤
@@ -96,7 +96,7 @@ More information available
     - Enemies weak to Poison ∞
 
 - Haunted Halls
-    - Drops Aether ＊ runes
+    - Drops Æther ＊ runes
     - Enemies weak to Vigor ❤
     - Skeletons take double magic damage
     - Booos immune to physical damage
@@ -104,7 +104,7 @@ More information available
 - Boiling Mine
     - Bronze: `:.`
     - Drops Fire φ runes
-    - Enemies weak to Aether ＊
+    - Enemies weak to Æther ＊
 
 - Icy Ridge
     - Drops Ice ❄ runes
