@@ -7,6 +7,7 @@
 // Loadout 3: armor-crushing, e.g. 2x warhammer
 // Loadout 4: melee high-damage, e.g. 2x sword
 // Loadout 5: 2x vigor wand
+// Loadout 0: experience stone, sword
 
 // The Ouroboros stone is equipped when nothing
 // has to be done to get heal a little.
@@ -55,7 +56,7 @@
     equipR star
     equipL ouroboros
   ?foe = mosquito
-    loadout 1
+    loadout 4
   ?foe = scarab
     loadout 4
   ?foe.distance < 10
@@ -76,13 +77,15 @@
     loadout 1
   ?foe = spider
     loadout 1
+  ?foe = scorpion
+    loadout 1
   ?foe = eggs
     loadout 1
   ?foe.distance < 10
     loadout 4
   // Bolesh, the cunning
   ?foe = boss
-    loadout 4
+    loadout 1
 
 
 
@@ -218,5 +221,4 @@
 // Equip Experience stone to kill a boss
 // and get double XP from the kill
 ?foe = boss & foe.armor = 0 & foe.hp < 25
-  equipR sword
-  equipL experience
+  loadout 0
