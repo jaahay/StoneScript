@@ -6,6 +6,7 @@
 // Loadout 2: melee with dashing shield
 // Loadout 3: armor-crushing, e.g. 2x warhammer
 // Loadout 4: melee high-damage, e.g. 2x sword
+// Loadout 5: 2x vigor wand
 
 // The Ouroboros stone is equipped when nothing
 // has to be done to get heal a little.
