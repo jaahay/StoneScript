@@ -88,15 +88,22 @@
 // --- Mushroom forest ---
 ?loc = fungus
   equip poison staff
+  // ants
+  ?foe = ant
+    //loadout 1
   // Angry shroom
   ?foe = boss
     equip poison staff
   // Morel, the sporeadic
   ?foe = boss_fat
-    loadout 4
+    //loadout 4
+    equip poison staff                          
+    ?foe.armor > 0
+      loadout 3
   // Enoki, fungi to be with
   ?foe = boss_skinny
-    loadout 4
+    // loadout 4
+    equip poison staff
 
 
 
