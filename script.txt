@@ -56,14 +56,14 @@
     equipR star
     equipL ouroboros
   ?foe = mosquito
-    loadout 4
+    loadout 1
   ?foe = scarab
-    loadout 4
-  ?foe.distance < 10
-    loadout 4
+    loadout 2
+  //?foe.distance < 10
+    //loadout 4
   // Xyaloalgia, residue of Leuce
   ?foe = tree_boss
-    loadout 4
+    loadout 2
 
 
 
